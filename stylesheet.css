@@ -1,6 +1,6 @@
 @media (max-width: 1000px) {
 	body {
-		font-family: Helvetica;
+		font-family: cursive;
 	}
 	
 	.header {
@@ -11,7 +11,7 @@
 	
 	.header-logo {
 		float: left;
-		font-size: 40px;
+		font-size: 30px;
 		padding: 30px 40px;
 	}
 	
@@ -53,10 +53,6 @@
 }
 
 @media (max-width: 670px) {
-	.header {
-		height: 80px;
-	}
-	
 	.header-logo {
 		font-size: 25px;
 	}
