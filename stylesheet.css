@@ -19,7 +19,7 @@ body {
 }
 	
 .header-list li {
-	font-size: 25px;
+	font-size: 20px;
 	list-style: none;
 	padding-right: 10px;
 }
@@ -46,6 +46,6 @@ span {
 		
 .footer-logo {
 	text-align: center;
-	font-size: 30px;
+	font-size: 25px;
 	padding-top: 30px;
 }
